@@ -1,2 +1,2 @@
 # project-python
-to store project 
+I have some idea about python coding 
